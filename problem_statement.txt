@@ -1,0 +1,13 @@
+11. Product Review Sentiment Analysis 
+Objective: 
+Build a deep learning model to classify product reviews based on sentiment. 
+Steps: 
+- Import dataset or take user input text. 
+- Perform data preprocessing (encoding, cleaning, tokenization, feature scaling if required). 
+- Split dataset into training and testing sets (if applicable). 
+- Build the model using TensorFlow/Keras or API integration. 
+- Compile the model (use appropriate optimizer and loss function). 
+- Train the model (if ML/DL project). 
+- Evaluate the model using Accuracy, Confusion Matrix, or output comparison.
+Tools Used: 
+Python, Pandas, NumPy, Scikit-learn, TensorFlow/Keras, OpenAI API, Groq API
